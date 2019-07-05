@@ -1,0 +1,13 @@
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\bin\Debug\Digitalna Forenzika.exe.config
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\bin\Debug\Digitalna Forenzika.exe
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\bin\Debug\Digitalna Forenzika.pdb
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna Forenzika.csprojResolveAssemblyReference.cache
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna_Forenzika.Form1.resources
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna_Forenzika.Properties.Resources.resources
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna Forenzika.csproj.GenerateResource.Cache
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna Forenzika.exe.licenses
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna Forenzika.csproj.CoreCompileInputs.cache
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna Forenzika.exe
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna Forenzika.pdb
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna_Forenzika.Plugins.EncryptionView.resources
+D:\+Nj\[C#] Projects\Digitalna Forenzika\Digitalna Forenzika\obj\Debug\Digitalna_Forenzika.Plugins.DecryptionView.resources
